@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,670 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "aki",
+      "dogBreed": "mongrel",
+      "id": 3
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 4
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 5
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 6
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 7
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 8
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 9
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 10
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 11
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 12
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 13
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 14
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 15
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 16
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 17
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 18
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 19
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 20
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 21
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 22
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 23
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 24
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 25
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 26
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 27
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 28
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 29
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 30
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 31
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 32
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 33
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 34
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 35
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 36
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 37
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 38
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 39
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 40
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 41
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 42
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 43
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 44
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 45
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 46
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 47
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 48
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 49
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 50
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 51
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 52
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 53
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 54
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 55
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 56
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 57
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 58
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 59
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 60
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 61
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 62
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 63
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 64
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 65
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 66
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 67
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 68
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 69
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 70
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 71
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 72
+    },
+    {
+      "id": 73
+    },
+    {
+      "id": 74
+    },
+    {
+      "id": 75
+    },
+    {
+      "id": 76
+    },
+    {
+      "id": 77
+    },
+    {
+      "id": 78
+    },
+    {
+      "id": 79
+    },
+    {
+      "name": "",
+      "id": 80
+    },
+    {
+      "name": "",
+      "id": 81
+    },
+    {
+      "name": "",
+      "id": 82
+    },
+    {
+      "name": "",
+      "id": 83
+    },
+    {
+      "name": "",
+      "id": 84
+    },
+    {
+      "name": "",
+      "id": 85
+    },
+    {
+      "name": "",
+      "id": 86
+    },
+    {
+      "name": "",
+      "id": 87
+    },
+    {
+      "name": "",
+      "id": 88
+    },
+    {
+      "name": "",
+      "id": 89
+    },
+    {
+      "name": "",
+      "id": 90
+    },
+    {
+      "name": "",
+      "id": 91
+    },
+    {
+      "name": "",
+      "id": 92
+    },
+    {
+      "name": "",
+      "id": 93
+    },
+    {
+      "name": "",
+      "id": 94
+    },
+    {
+      "name": "",
+      "id": 95
+    },
+    {
+      "name": "",
+      "id": 96
+    },
+    {
+      "name": "",
+      "id": 97
+    },
+    {
+      "name": "",
+      "id": 98
+    },
+    {
+      "name": "",
+      "id": 99
+    },
+    {
+      "name": "",
+      "id": 100
+    },
+    {
+      "name": "",
+      "id": 101
+    },
+    {
+      "name": "",
+      "id": 102
+    },
+    {
+      "name": "",
+      "id": 103
+    },
+    {
+      "name": "",
+      "id": 104
+    },
+    {
+      "name": "",
+      "id": 105
+    },
+    {
+      "name": "ian",
+      "id": 106
+    },
+    {
+      "name": "ian",
+      "id": 107
+    },
+    {
+      "name": "ian",
+      "id": 108
+    },
+    {
+      "name": "ian",
+      "id": 109
+    },
+    {
+      "name": "ian",
+      "id": 110
+    },
+    {
+      "name": "ian",
+      "id": 111
+    },
+    {
+      "name": "ian",
+      "id": 112
+    },
+    {
+      "name": "ian",
+      "id": 113
+    },
+    {
+      "name": "ian",
+      "id": 114
+    },
+    {
+      "name": "ian",
+      "id": 115
+    },
+    {
+      "name": "ian",
+      "id": 116
+    },
+    {
+      "name": "ian",
+      "id": 117
+    },
+    {
+      "name": "ian",
+      "id": 118
+    },
+    {
+      "name": "ian",
+      "id": 119
+    },
+    {
+      "name": "ian",
+      "id": 120
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 121
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 122
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 123
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 124
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 125
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 126
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 127
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 128
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 129
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 130
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 131
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 132
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 133
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 134
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 135
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 136
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 137
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 138
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 139
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 140
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 141
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 142
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 143
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 144
+    },
+    {
+      "name": "ian",
+      "email": "i@mail.com",
+      "id": 145
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -22,9 +684,11 @@
     }
   ],
   "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
